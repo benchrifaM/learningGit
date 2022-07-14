@@ -1,0 +1,12 @@
+{
+    "name": "dermica/git",
+    "authors": [
+        {
+            "name": "DevEnver",
+            "email": "benchrifa.contact@gmail.com"
+        }
+    ],
+    "require": {
+        "michelf/php-markdown": "^1.9"
+    }
+}
